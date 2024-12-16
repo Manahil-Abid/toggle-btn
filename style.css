@@ -1,0 +1,14 @@
+body{
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: white;
+margin: 0;
+padding: 20%;
+}
+button{
+    padding: 10px;
+    background-color: cornsilk;
+    border-radius: 10px;
+    margin-left: 30%;
+}
